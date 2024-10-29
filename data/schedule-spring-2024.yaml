@@ -1,0 +1,153 @@
+---
+tableRows:
+  - 1:
+    Week: 1
+    Dates: "1/8 - 1/12"
+    Topics:
+      - "Course introduction"
+      - "Text data preprocessing: Normalization, lemmatization, stemming, stop words removal... "
+
+  - 2:
+    Week: 2
+    Dates: "1/15 - 1/19"
+    Topics:
+      - MLK Official Institute Holiday
+      - "Text Representations: "
+      - "One hot encoding"
+      - "BoW (frequency counting)"
+      - "TF-IDF"
+    Homework:
+    Quizzes: "Quiz 0 | Knowledge-based | out 1/12 - due 1/19 "
+
+  - 3:
+    Week: 3
+    Dates: "1/22 - 1/26"
+    Topics:
+      - "Classification Introduction"
+      - "Naive Bayes"
+      - " Classification Model Evaluation: accuracy, precision, recall, confusion matrix"
+
+    Homework:
+      - "HW1 out 1/26"
+    Quizzes: "Quiz 1 | week 1 and 2| out 1/19 - due 1/26"
+
+  - 4:
+    Week: 4
+    Dates: "1/29 - 2/02"
+    Topics:
+      - "Focus on HW1"
+    Quizzes: "Quiz 2 | week 3| out 1/26 - due 2/02 "
+
+  - 5:
+    Week: 5
+    Dates: "2/05 - 2/09"
+    Topics:
+      - "Logistic Regression"
+      - "SVM"
+      - "Perceptron"
+    Homework:
+      - "**HW1 due 2/09**"
+      - "HW2 out 2/09"
+
+  - 6:
+    Week: 6
+    Dates: "2/12 - 2/16"
+    Topics:
+      - SVD (Dimensionality Reduction) + Co-occurrence embeddings
+      - Glove
+
+    Quizzes: "Quiz 3 | week 5| out 2/09 - due 2/16 "
+    Readings:
+    - "[GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)"
+
+  - 7:
+    Week: 7
+    Dates: "2/19 - 2/23"
+    Topics:
+      - "Focus on HW2"
+
+  - 8:
+    Week: 8
+    Dates: "2/26 - 3/01"
+    Topics:
+      - "Neural Network (fully connected)"
+      - "Word2vec: CBoW, Skip-Gram"
+    Homework:
+      - "**HW2 due 3/01**"
+      - "HW3 out 3/01"
+    Quizzes: "Quiz 4 | week 6| out 2/23 - due 3/01"
+    Readings:
+      - "[NN Playground](https://playground.tensorflow.org/)"
+      - "[Interactive NN initialization](https://www.deeplearning.ai/ai-notes/initialization/);"
+      - "[The role of a hidden layer](https://www.quora.com/What-is-the-role-of-a-hidden-layer);"
+      - "[Back propagation numerical example](https://hmkcode.github.io/ai/backpropagation-step-by-step/);"
+      - "[More detailed introduction](/other/nn-intro.pdf);"
+      - "[Efficient Estimation of Word Representations in Vector Space](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwid2L-eu4WAAxUPAjQIHds5CocQFnoECA8QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1301.3781&usg=AOvVaw2oae2AEKwhhz_ZlnfwIaFJ&opi=89978449)"
+
+  - 9:
+    Week: 9
+    Dates: "3/04 - 3/08"
+    Topics:
+      - "CNN"
+      - "RNN"
+    Quizzes: "Quiz 5 | week 8| out 3/01 - due 3/08"
+    Readings:
+      - "[CNN Live Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html);"
+      - "[A guide to an efficient way to build CNN and optimize its hyper-parameters](https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7);"
+      - "[Back Propagation in CNN](https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/);"
+      - "[Transfer learning in CNN](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a);"
+
+  - 10:
+    Week: 10
+    Dates: "3/11 - 3/15"
+    Topics:
+      - "LSTM and GRU"
+      - LSTM + Attention (Focus on Attention mechanism)
+    Quizzes: "Quiz 6 | week 9| out 3/08 - due 3/15"
+
+    Readings:
+
+  - 11:
+    Week: 11
+    Dates: "3/18 - 3/22"
+    Topics:
+      - Spring Break
+    Quizzes: ""
+
+  - 12:
+    Week: 12
+    Dates: "3/25 - 3/29"
+    Topics:
+      - "Transformer models"
+      - "Examples: BERT(Bidirectional Encoder Representations from Transformers) and GPT (Generative Pre-trained Transformer) "
+    Homework:
+      - "**HW3 due 3/29**"
+      - "HW4 out 3/29"
+    Quizzes: "Quiz 7 | week 10| out 3/15 - due 3/29"
+    Readings:
+      - "[Attention Is All You Need](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiPtd7Y9IWAAxU2JkQIHW1EDKIQFnoECA0QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1706.03762&usg=AOvVaw2ceXGQohV5Kx51VSkfkG08&opi=89978449);"
+      - "[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj3vITv9IWAAxUkOkQIHYjkApEQFnoECA0QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1810.04805&usg=AOvVaw14sm9MmA6c9pcfLHgrP9Pk&opi=89978449);"
+
+  - 13:
+    Week: 13
+    Dates: "4/01 - 4/05"
+    Topics:
+      - " Sequence Labelling: POS Tagging"
+      - " Sequence Labelling: NER "
+    Quizzes: "Quiz 8 | week 12| out 3/29 - due 4/05"
+
+  - 14:
+    Week: 14
+    Dates: "4/08 - 4/12"
+    Topics:
+      - " Unsupervised Models"
+      - "Topic Modeling (Latent Semantic Indexing, LDA (Latent Dirichlet Allocation)"
+    Quizzes: "Quiz 9 | week 13| out 4/05 - due 4/12"
+  - 15:
+    Week: 15
+    Dates: "4/15 - 4/19"
+    Topics:
+      - "Focus on HW 4"
+    Homework:
+      - "**HW4 due 04/22**"
+    Quizzes: "Quiz 10 | week 14 | out 4/12 - due 4/19"

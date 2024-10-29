@@ -1,0 +1,151 @@
+---
+tableRows:
+  - 1:
+    Week: 1
+    Dates: "5/13 - 5/17"
+    Topics:
+      - "Course introduction"
+      - "Text data preprocessing: Normalization, lemmatization, stemming, stop words removal... "
+      - "Text Representations: "
+      - "One hot encoding"
+      - "BoW (frequency counting)"
+      - "TF-IDF"
+    Quizzes: "Quiz 0 | Knowledge-based | out 5/13 - due 5/17"
+    Homework:
+      - "**HW1 out 5/17**"
+    Readings:
+      - "Chapter 1 Introduction to Natural Language Processing by Jacob Eisenstein"
+      - "Chapter 2.1 Introduction to Natural Language Processing by Jacob Eisenstein"       
+
+  - 2:
+    Week: 2
+    Dates: "5/20 - 5/24"
+    Topics:
+      - "Classification Introduction"
+      - "Naive Bayes"
+      - "Classification Model Evaluation: accuracy, precision, recall, confusion matrix"
+    Quizzes: "Quiz 1 | week 1 | out 5/17 - due 5/24"
+    Readings:
+      - "Chapter 2.2 Introduction to Natural Language Processing by Jacob Eisenstein"    
+
+  - 3:
+    Week: 3
+    Dates: "5/27 - 5/31"
+    Topics:
+      - Memorial Day Official School holiday
+      - "Logistic Regression"
+      - "SVM"
+      - "Perceptron"      
+    Quizzes: "Quiz 2 | week 2 | out 5/24 - due 5/31"
+    Homework:
+      - "**HW1 due 5/31**"
+      - "HW2 out 5/31"
+    Readings:
+      - "Chapters 2.3, 2.4, 2.5 Introduction to Natural Language Processing by Jacob Eisenstein."
+
+  - 4:
+    Week: 4
+    Dates: "6/03 - 6/07"
+    Topics: 
+      - SVD (Dimensionality Reduction) + Co-occurrence embeddings
+      - Glove    
+    Quizzes: "Quiz 3 | week 3| out 5/31 - due 6/07"
+    Readings:
+      - "[GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)"    
+
+  - 5:
+    Week: 5
+    Dates: "6/10 - 6/14"
+    Topics:
+      - "Neural Network (fully connected)"
+      - "Word2vec: CBoW, Skip-Gram"   
+
+    Quizzes: "Quiz 4 | week 4| out 6/07 - due 6/14"
+    Homework:
+      - "**HW2 due 6/14**"
+      - "HW3 out 6/14"
+    Readings:
+      - "[NN Playground](https://playground.tensorflow.org/)"
+      - "[Interactive NN initialization](https://www.deeplearning.ai/ai-notes/initialization/);"
+      - "[The role of a hidden layer](https://www.quora.com/What-is-the-role-of-a-hidden-layer);"
+      - "[Back propagation numerical example](https://hmkcode.github.io/ai/backpropagation-step-by-step/);"
+      - "[More detailed introduction](/other/nn-intro.pdf);"
+      - "[Efficient Estimation of Word Representations in Vector Space](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwid2L-eu4WAAxUPAjQIHds5CocQFnoECA8QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1301.3781&usg=AOvVaw2oae2AEKwhhz_ZlnfwIaFJ&opi=89978449)"
+      - "Chapters 3.1, 3.2, 14.5, 14.6 Introduction to Natural Language Processing by Jacob Eisenstein"
+
+  - 6:
+    Week: 6
+    Dates: "6/17 - 6/21"
+    Topics:
+      - Juneteenth Official School Holiday
+      - "CNN"
+      - "RNN"
+    Readings:
+      - "[CNN Live Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html);"
+      - "[A guide to an efficient way to build CNN and optimize its hyper-parameters](https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7);"
+      - "[Back Propagation in CNN](https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/);"
+      - "[Transfer learning in CNN](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a);"
+      - "Chapters 3.4, 6.3 Introduction to Natural Language Processing by Jacob Eisenstein"
+
+    Quizzes: "Quiz 5 | week 5| out 6/14 - due 6/21"
+
+  - 7:
+    Week: 7
+    Dates: "6/24 - 6/28"
+    Topics:
+      - "LSTM and GRU"
+      - LSTM + Attention (Focus on Attention mechanism)
+    Readings:
+      - "[Understanding LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs)"
+
+    Quizzes: "Quiz 6 | week 6| out 6/21 - due 6/28"
+
+  - 8:
+    Week: 8
+    Dates: "7/01 - 7/05"
+    Topics:
+      - Independence Day Official School holiday
+      - "Transformer models"
+      - "Examples: BERT(Bidirectional Encoder Representations from Transformers) and GPT (Generative Pre-trained Transformer) "
+    Readings:
+      - "[Attention Is All You Need](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiPtd7Y9IWAAxU2JkQIHW1EDKIQFnoECA0QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1706.03762&usg=AOvVaw2ceXGQohV5Kx51VSkfkG08&opi=89978449);"
+      - "[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj3vITv9IWAAxUkOkQIHYjkApEQFnoECA0QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1810.04805&usg=AOvVaw14sm9MmA6c9pcfLHgrP9Pk&opi=89978449);"
+
+
+    Homework:
+      - "**HW3 due 7/05**"
+      - "HW4 out 7/05"
+    Quizzes: "Quiz 7 | week 7| out 6/28 - due 7/05"
+
+
+  - 9:
+    Week: 9
+    Dates: "7/08 - 7/12"
+    Topics:
+      - " Sequence Labelling: POS Tagging"
+      - " Sequence Labelling: NER "
+
+    Quizzes: "Quiz 8 | week 8| out 7/05 - due 7/12"
+    Readings:
+      - "Chapters 8.1, 8.3 Introduction to Natural Language Processing by Jacob Eisenstein"
+
+
+  - 10:
+    Week: 10
+    Dates: "7/15 - 7/19"
+    Topics:
+      - "Unsupervised Models"
+      - "Topic Modeling (Latent Semantic Indexing, LDA (Latent Dirichlet Allocation)"
+
+    Quizzes: "Quiz 9| week 9| out 7/12 - due 7/19"
+
+
+  - 11:
+    Week: 11
+    Dates: "7/22 - 7/25"
+    Topics:
+      - "Focus on Homework 4" 
+    Homework:
+      - "**HW4 due 07/25**"
+    Quizzes: "Quiz 10 | week 10 and 11 | out 7/19 - due 7/25"
+ 
