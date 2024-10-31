@@ -29,7 +29,7 @@ There will be 11 graded quizzes throughout the semester on <strong>Canvas</stron
 - Quizzes measure your understanding of the topics and they will be mostly conceptual questions.
 - Quizzes' answers will be released as soon as all our students took them including our ODS students. Please do not ask any questions about a quiz that you just take on Edstem before we release the answers.
 - Quizzes questions are selected randomly from our question bank, which means that students will not receive the same questions for their quiz.
-- We use Honorlock for all quizzes in this course to enhance assessment integrity. Quizzes will be open book, open notes with browser activity restricted to Canvas.
+- Honorlock will be used for all quizzes in this course to uphold assessment integrity. Quizzes are open book and open notes, allowing you to use physical paper notes. However, the use of any additional electronic devices, such as phones or iPads, is not permitted. Browser activity will also be restricted to Canvas only.
 
 ## Grading
 - You must achieve an overall weighted average of 60% to pass the course.

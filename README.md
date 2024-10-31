@@ -51,6 +51,4 @@ To manually deploy the site:
 1. Run `hugo` in the root of this project
 2. If the build is successful, the outputs will go to a `public` directory in the root.
 3. Delete the old `docs` directory, and rename this new `public` directory to be `docs`.
-4. Push the changes# summer24
-# summer24
-# summer24
+4. Push the changes# spring25

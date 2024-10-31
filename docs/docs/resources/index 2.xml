@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Class Homepage</title>
+    <link>/docs/resources/</link>
+    <description>Recent content in Resources on Class Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/docs/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collection</title>
+      <link>/docs/resources/collection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/resources/collection/</guid>
+      <description>Resource Collection#Recommended Reading#All content and course materials can be accessed online. There is no textbook for this course. All Georgia Tech students have FREE access to https://www.oreilly.com, where you can find a huge number of highly rated and classic books (e.g., the &amp;ldquo;animal&amp;rdquo; books) from O&amp;rsquo;Reilly and Pearson covering a wide variety of computer science topics, including some of those listed below. Just log in with your official GT email address, e.</description>
+    </item>
+    
+  </channel>
+</rss>
