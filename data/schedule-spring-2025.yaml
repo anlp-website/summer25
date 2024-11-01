@@ -66,18 +66,8 @@ tableRows:
     Week: 6
     Dates: "2/10 - 2/14"
     Topics:
-      - "Focus on HW2"
-
-  - 7:
-    Week: 7
-    Dates: "2/17 - 2/21"
-    Topics:
       - "Neural Network (fully connected)"
       - "Word2vec: CBoW, Skip-Gram"
-    Homework:
-      - "**HW2 due 2/21**"
-      - "HW3 out 2/21"
-    Quizzes: "Quiz 4 | week 5| out 2/14 - due 2/21"
     Readings:
       - "[NN Playground](https://playground.tensorflow.org/)"
       - "[Interactive NN initialization](https://www.deeplearning.ai/ai-notes/initialization/);"
@@ -85,6 +75,20 @@ tableRows:
       - "[Back propagation numerical example](https://hmkcode.github.io/ai/backpropagation-step-by-step/);"
       - "[More detailed introduction](/other/nn-intro.pdf);"
       - "[Efficient Estimation of Word Representations in Vector Space](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwid2L-eu4WAAxUPAjQIHds5CocQFnoECA8QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1301.3781&usg=AOvVaw2oae2AEKwhhz_ZlnfwIaFJ&opi=89978449)"
+    Quizzes: "Quiz 4 | week 5| out 2/07 - due 2/14"
+
+
+  - 7:
+    Week: 7
+    Dates: "2/17 - 2/21"
+    Topics:
+      - "Toolbox on Classification Algorithms"
+      - "Toolbox on Word2Vec"
+
+    Homework:
+      - "**HW2 due 2/21**"
+      - "HW3 out 2/21"
+
 
 
   - 8:
@@ -93,7 +97,8 @@ tableRows:
     Topics:
       - "CNN"
       - "RNN"
-    Quizzes: "Quiz 5 | week 7| out 2/21 - due 2/28"
+      - "Toolbox on CNN For Text Classification"
+    Quizzes: "Quiz 5 | week 6| out 2/21 - due 2/28"
     Readings:
       - "[CNN Live Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html);"
       - "[A guide to an efficient way to build CNN and optimize its hyper-parameters](https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7);"
@@ -106,7 +111,7 @@ tableRows:
     Dates: "3/03 - 3/07"
     Topics:
       - "LSTM and GRU"
-      - LSTM + Attention (Focus on Attention mechanism)
+      - "LSTM + Attention (Focus on Attention mechanism)"
     Quizzes: "Quiz 6 | week 8| out 2/28 - due 3/07"
 
   - 10:
@@ -145,7 +150,7 @@ tableRows:
     Week: 13
     Dates: "3/31 - 4/04"
     Topics:
-      - " Unsupervised Models"
+      - "Unsupervised Models"
       - "Topic Modeling (Latent Semantic Indexing, LDA (Latent Dirichlet Allocation)"
     Quizzes: "Quiz 9 | week 12| out 3/28 - due 4/04"
 
@@ -163,17 +168,12 @@ tableRows:
     Week: 15
     Dates: "4/14 - 4/18"
     Topics:
-      - "Focus on HW 4"
+      - "Toolbox on Exploring LLMs"
     Homework:
       - "**HW4 due 4/18**"
+      - "**Note:** You may submit HW4 without penalty until **4/22**."
+
     Quizzes: "Quiz 11 | week 14 | out 4/11 - due 4/18"
 
-  - 16:
-    Week: 16
-    Dates: "4/21 - 4/22"
-    Topics:
-      - "Focus on HW 4"
-    Homework:
-      - "**HW 4 submissions allowed until April 22nd without any penalty**"
 
 
