@@ -5,13 +5,13 @@ people:
     email: "rohdas@gatech.edu"
     picture: "/profiles/rd.png"
   - 42:
-    name: "Daanish M Mohammed"
-    email: "dmohammed7@gatech.edu"
-    picture: "/profiles/dmm.png"    
+    name: "Pranav Raj"
+    email: "praj36@gatech.edu"
+    picture: "/profiles/rajpranav.png"    
   - 43:
-    name: "Ruijia Wang"
-    email: "rwang415@gatech.edu"
-    picture: "/profiles/rw.png"
+    name: "Emre Duman"
+    email: "eduman8@gatech.edu"
+    picture: "/profiles/emredu.png"
   - 44:
     name: "Matthew Peng"
     email: "hpeng73@gatech.edu"
