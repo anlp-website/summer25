@@ -15,6 +15,8 @@ We have 4 big assignments in total (subject to change). Visit this course's Grad
 - [25%] HW4: Week 11 to end.
 We do not release solutions for homework. Some of our assignments will have bonus points and bonus points are weighted the same as the 'regular' assignments points. 
 
+**Extra Credit/Bonus Points**: For some assignments we will have extra credit/bonus opportunities. Extra credit/bonus points are treated the same as the corresponding regular assignments points. For example, HW1 is worth 20% of the final grade, if it has 90 regular points plus an additional 9 bonus points, earning all 99 points would give you a score of 110% (99/90). Since HW1 contributes 20% to your final grade, achieving 110% on it would result in an additional 2% boost to your overall final grade. 
+
 {{< hint info >}}
 **Can you release homework early?** We understand that some students may prefer that homework assignments be released as soon as possible. Behind the scenes, our course staff work diligently to develop new questions, which means testing new datasets, new instructions, new auto graders, solution code, and more! Unfortunately, this means we likely cannot release assignments well in advance. We will release them as early as possible, hopefully some days before the scheduled release dates on our course schedule. When we release an assignment, we always announce it on Ed discussion.
 {{< /hint >}}
