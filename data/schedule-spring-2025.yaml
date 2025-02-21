@@ -98,7 +98,7 @@ tableRows:
       - "CNN"
       - "RNN"
       - "Toolbox on CNN For Text Classification"
-    Quizzes: "Quiz 5 | week 6| out 2/21 - due 2/28"
+    Quizzes: "Quiz 5 | week 6 and week 7| out 2/21 - due 2/28"
     Readings:
       - "[CNN Live Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html);"
       - "[A guide to an efficient way to build CNN and optimize its hyper-parameters](https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7);"
