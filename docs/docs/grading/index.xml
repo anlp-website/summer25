@@ -4,17 +4,15 @@
     <title>Grading on Class Homepage</title>
     <link>/docs/grading/</link>
     <description>Recent content in Grading on Class Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/docs/grading/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/docs/grading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Categories</title>
       <link>/docs/grading/categories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/docs/grading/categories/</guid>
-      <description>Categories # Assignments (85%) # We have 4 big assignments in total (subject to change). Visit this course&amp;rsquo;s Gradescope site for the assignment documents. See the schedule table above for deliverable due dates.
-[20%] HW1: Week 1 to Week 3 topics [20%] HW2: Week 4 to Week 7 topics [20%] HW3: Week 8 to Week 10 topics [25%] HW4: Week 11 to end. We do not release solutions for homework.</description>
+      <description>&lt;h1 id=&#34;categories&#34;&gt;&#xD;&#xA;  Categories&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#categories&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;assignments-85&#34;&gt;&#xD;&#xA;  Assignments (85%)&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#assignments-85&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;We have 4 big assignments in total (subject to change). Visit this course&amp;rsquo;s Gradescope site for the assignment documents. See the schedule table above for deliverable due dates.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[20%] HW1: Week 1 to Week 3 topics&lt;/li&gt;&#xA;&lt;li&gt;[20%] HW2: Week 4 to Week 7 topics&lt;/li&gt;&#xA;&lt;li&gt;[20%] HW3: Week 8 to Week 10 topics&lt;/li&gt;&#xA;&lt;li&gt;[25%] HW4: Week 11 to end.&#xA;We do not release solutions for homework. Some of our assignments will have bonus points and bonus points are weighted the same as the &amp;lsquo;regular&amp;rsquo; assignments points.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Extra Credit/Bonus Points&lt;/strong&gt;: For some assignments we will have extra credit/bonus opportunities. Extra credit/bonus points are treated the same as the corresponding regular assignments points. For example, HW1 is worth 20% of the final grade, if it has 90 regular points plus an additional 9 bonus points, earning all 99 points would give you a score of 110% (99/90). Since HW1 contributes 20% to your final grade, achieving 110% on it would result in an additional 2% boost to your overall final grade.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -3,7 +3,7 @@ title: Home
 type: docs
 ---
 
-# Applied Natural Language Processing CSE 8803 - Spring 2025
+# Applied Natural Language Processing CSE 8803 - Summer 2025
 
 ## Course Info
 

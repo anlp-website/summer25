@@ -17,4 +17,4 @@ All deadline and due dates in this course will be at AoE time zone. For all date
 Scroll horizontally to see the full schedule table on mobile devices
 {{< /hint >}}
 
-{{< schedule_table src="schedule-spring-2025">}}
+{{< schedule_table src="schedule-summer-2025">}}
