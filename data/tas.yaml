@@ -1,25 +1,25 @@
 ---
 people:
-  - 41:
+  - 1:
     name: "Rohit Das"
     email: "rohdas@gatech.edu"
     picture: "/profiles/rd.png"
-  - 42:
-    name: "Pranav Raj"
-    email: "praj36@gatech.edu"
-    picture: "/profiles/rajpranav.png"    
-  - 43:
+  - 2:
+    name: "Neill Killgore"
+    email: "ckillgore3@gatech.edu"
+    picture: "/profiles/nk.png"     
+  - 3:
     name: "Emre Duman"
     email: "eduman8@gatech.edu"
     picture: "/profiles/emredu.png"
-  - 44:
+  - 4:
     name: "Matthew Peng"
     email: "hpeng73@gatech.edu"
     picture: "/profiles/hp.png"      
-  - 45:
-    name: "Neill Killgore"
-    email: "ckillgore3@gatech.edu"
-    picture: "/profiles/nk.png"    
+  - 5:
+    name: "TBD"
+    email: "tbd@gatech.edu"
+    picture: "/profiles/tbd.png"       
   # - 45:
     # name: "Xian Mae Diego Hadia"
     # email: "xhadia3@gatech.edu"

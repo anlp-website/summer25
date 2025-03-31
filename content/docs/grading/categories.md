@@ -42,7 +42,7 @@ There will be 11 graded quizzes throughout the semester on <strong>Canvas</stron
 ## Plagiarism, Collaboration Policy, and Student Honor Code
 
 {{< hint info >}}
-- All course participants (myself, teaching assistants, and learners)are expected to know and abide by the [Georgia Tech Academic Honor Code](http://policylibrary.gatech.edu/student-affairs/academic-honor-code).
+- All course participants (instructors, teaching assistants, and learners)are expected to know and abide by the [Georgia Tech Academic Honor Code](http://policylibrary.gatech.edu/student-affairs/academic-honor-code).
 -Ethical behavior is extremely important in **all facets of life**.
 {{< /hint >}}
 
