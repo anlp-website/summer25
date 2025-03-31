@@ -7,7 +7,7 @@ type: docs
 
 ## Course Info
 
-**Instructors: Dr. Mahdi Roozbahani, Dr. Nimisha Roy, Wafa Louhichi**
+**Instructors: Dr. Max Mahdi Roozbahani, Dr. Nimisha Roy, Wafa Louhichi**
 
 **EdStem: Check your Canvas Dashboard and click on Ed Discussion**
 
