@@ -84,7 +84,7 @@ tableRows:
       - "CNN"
       - "RNN"
       - "Toolbox on CNN For Text Classification"
-    Quizzes: "Quiz 5 | week 6 and week 7| out 2/21 - due 2/28"
+    Quizzes: "Quiz 5 | week 5| out 6/13 - due 6/20"
     Readings:
       - "[CNN Live Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html);"
       - "[A guide to an efficient way to build CNN and optimize its hyper-parameters](https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7);"
@@ -95,58 +95,58 @@ tableRows:
 
   - 7:
     Week: 7
-    Dates: "6/30 - 7/04"
+    Dates: "6/23 - 6/27"
     Topics:
       - "LSTM and GRU"
       - "LSTM + Attention (Focus on Attention mechanism)"
       - Independe Day Institute Holiday
-    Quizzes: "Quiz 6 | week 6| out 6/20 - due 7/03"
+    Quizzes: "Quiz 6 | week 6| out 6/23 - due 6/27"
 
   - 8:
     Week: 8
-    Dates: "7/07 - 7/11"
+    Dates: "6/30 - 7/04"
     Topics:
       - "Transformer models"
       - "Examples: BERT(Bidirectional Encoder Representations from Transformers) and GPT (Generative Pre-trained Transformer) "
  
-    Quizzes: "Quiz 7 | week 7| out 7/03 - due 7/11"
+    Quizzes: "Quiz 7 | week 7| out 6/27 - due 7/04"
     Readings:
       - "[Attention Is All You Need](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiPtd7Y9IWAAxU2JkQIHW1EDKIQFnoECA0QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1706.03762&usg=AOvVaw2ceXGQohV5Kx51VSkfkG08&opi=89978449);"
       - "[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj3vITv9IWAAxUkOkQIHYjkApEQFnoECA0QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1810.04805&usg=AOvVaw14sm9MmA6c9pcfLHgrP9Pk&opi=89978449);"
     Homework:
-      - "**HW3 due 7/03**"
-      - "H4 out 7/03"
+      - "**HW3 due 7/04**"
+      - "H4 out 7/04"
 
   - 9:
     Week: 9
-    Dates: "7/14 - 7/18"
+    Dates: "7/07 - 7/11"
     Topics:      
       - " Sequence Labelling: POS Tagging"
       - " Sequen1e Labelling: NER "
-    Quizzes: "Quiz 8 | week 8| out 7/11 - due 7/18"
+    Quizzes: "Quiz 8 | week 8| out 7/04 - due 7/11"
 
 
   - 10:
     Week: 10
-    Dates: "7/21 - 7/25"
+    Dates: "7/14 - 7/18"
     Topics:
       - "Unsupervised Models"
       - "Topic Modeling (Latent Semantic Indexing, LDA (Latent Dirichlet Allocation)"
       - "Toolbox on Exploring LLMs"
-    Quizzes: "Quiz 9 | week 9| out 7/18 - due 7/25"
+    Quizzes: "Quiz 9 | week 9| out 7/11 - due 7/18"
     
 
 
-  - 14:
-    Week: 14
-    Dates: "7/25 - 7/31"
+  - 11:
+    Week: 11
+    Dates: "7/21 - 7/22"
     Topics:
       - "Introduction to Generative AI"
       - "Prompt Engineering Techniques" 
       - "Retrieval Augmented Generation (RAG)"
-    Quizzes: "Quiz 10 | week 10 | out 7/25 - due 7/31"
+    Quizzes: "Quiz 10 | week 10 | out 7/18 - due 7/25"
     Homework:
-      - "**HW4 due 7/31**"
+      - "**HW4 due 7/25**"
 
 
 
