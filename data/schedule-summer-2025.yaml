@@ -80,7 +80,7 @@ tableRows:
     Week: 6
     Dates: "6/16 - 6/20"
     Topics:
-      - Juneteenth Institute Holiday
+      - "Juneteenth Institute Holiday"
       - "CNN"
       - "RNN"
       - "Toolbox on CNN For Text Classification"
@@ -114,7 +114,7 @@ tableRows:
       - "[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj3vITv9IWAAxUkOkQIHYjkApEQFnoECA0QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1810.04805&usg=AOvVaw14sm9MmA6c9pcfLHgrP9Pk&opi=89978449);"
     Homework:
       - "**HW3 due 7/04**" 
-      - "**Note:** You may submit HW3 without penalty until **7/07**"
+      - " **Note:** You may submit HW3 without penalty until **7/07** "
       - "H4 out 7/04"
 
   - 9:
