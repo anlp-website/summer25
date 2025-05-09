@@ -13,7 +13,7 @@ hugo
 echo "\nDeploying site to Github...\n"
 mv ./public ./docs
 sleep 5
-
+git pull
 git add --all
 git commit -a -m "Publishing site build - $(date)"
 git push -u origin main --force
