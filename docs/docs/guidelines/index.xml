@@ -4,29 +4,34 @@
     <title>Guidelines on Class Homepage</title>
     <link>/docs/guidelines/</link>
     <description>Recent content in Guidelines on Class Homepage</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="/docs/guidelines/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/docs/guidelines/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>General</title>
       <link>/docs/guidelines/general/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>/docs/guidelines/general/</guid>
-      <description>&lt;h1 id=&#34;general&#34;&gt;&#xD;&#xA;  General&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#general&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;attendance&#34;&gt;&#xD;&#xA;  Attendance&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#attendance&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This is a fully online course.&lt;/li&gt;&#xA;&lt;li&gt;Login on a regular basis to complete your work, so that you do not have to spend a lot of time reviewing and refreshing yourself regarding the content.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;class-deliverables&#34;&gt;&#xD;&#xA;  Class Deliverables&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#class-deliverables&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;All class deliverables will be handled via Gradescope except quizzes which will be on Canvas. The time span offered to complete the course objectives is plentiful and deadlines will not be extended under any circumstances. To ensure the class is fair for all students, you will receive zero credit for work submitted after the deadline. Regrade requests should be submitted directly on Gradescope within a defined period after grade publication (we will inform you on that; we only provide a 3 day for the regrade request). Should you find yourself in an impasse with the TA responsible for your grading, feel free to contact the head TA or course instructor on Edstem.&lt;/p&gt;</description>
+      <description>General # Attendance # This is a fully online course. Login on a regular basis to complete your work, so that you do not have to spend a lot of time reviewing and refreshing yourself regarding the content. Class Deliverables # All class deliverables will be handled via Gradescope except quizzes which will be on Canvas. The time span offered to complete the course objectives is plentiful and deadlines will not be extended under any circumstances.</description>
     </item>
+    
     <item>
       <title>Office Hours</title>
       <link>/docs/guidelines/office-hours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>/docs/guidelines/office-hours/</guid>
-      <description>&lt;h1 id=&#34;office-hours&#34;&gt;&#xD;&#xA;  Office Hours&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#office-hours&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;overview&#34;&gt;&#xD;&#xA;  Overview&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;TAs plan to hold office hours starting week 2, except on Georgia Tech holidays (e.g., thanksgiving, MLK day, spring break). Each office hour session will be run by at least one TA, and is 1 hour long. See GT’s academic calendar for the full list of holidays &lt;a href=&#34;https://registrar.gatech.edu/calendar&#34;&gt;https://registrar.gatech.edu/calendar&lt;/a&gt;. We will spread the office hours across weekdays, and across time of the day. We will announce the office hour times.&lt;/p&gt;</description>
+      <description>Office Hours # Overview # TAs plan to hold office hours starting week 2, except on Georgia Tech holidays (e.g., thanksgiving, MLK day, spring break). Each office hour session will be run by at least one TA, and is 1 hour long. See GT’s academic calendar for the full list of holidays https://registrar.gatech.edu/calendar. We will spread the office hours across weekdays, and across time of the day. We will announce the office hour times.</description>
     </item>
+    
     <item>
       <title>Diversity &amp; Inclusion</title>
       <link>/docs/guidelines/diversity-and-inclusion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>/docs/guidelines/diversity-and-inclusion/</guid>
-      <description>&lt;h1 id=&#34;diversity--inclusion&#34;&gt;&#xD;&#xA;  Diversity &amp;amp; Inclusion&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#diversity--inclusion&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Just as machine learning algorithms cannot accomplish complex tasks if trained on datasets of limited variability, our course cannot be successful without appreciating the diversity of our students. In this class we aim to create an environment where all voices are valued, respecting the diversity of gender, sexuality, age, socioeconomic status, ability, ethnicity, race, and culture. We always welcome suggestions that can help us achieve this goal. Additionally, if any of our class scheduled activities conflicts with religious events, please inform the instruction team so that we can make appropriate arrangements for you.&lt;/p&gt;</description>
+      <description>Diversity &amp;amp; Inclusion # Just as machine learning algorithms cannot accomplish complex tasks if trained on datasets of limited variability, our course cannot be successful without appreciating the diversity of our students. In this class we aim to create an environment where all voices are valued, respecting the diversity of gender, sexuality, age, socioeconomic status, ability, ethnicity, race, and culture. We always welcome suggestions that can help us achieve this goal.</description>
     </item>
+    
   </channel>
 </rss>

@@ -99,7 +99,7 @@ tableRows:
     Topics:
       - "LSTM and GRU"
       - "LSTM + Attention (Focus on Attention mechanism)"
-    Quizzes: "Quiz 6 | week 6| out 6/23 - due 6/27"
+    Quizzes: "Quiz 6 | week 6| out 6/20 - due 6/27"
 
   - 8:
     Week: 8
@@ -122,7 +122,7 @@ tableRows:
     Dates: "7/07 - 7/11"
     Topics:      
       - " Sequence Labelling: POS Tagging"
-      - " Sequen1e Labelling: NER "
+      - " Sequence Labelling: NER "
     Quizzes: "Quiz 8 | week 8| out 7/04 - due 7/11"
 
   - 10:
